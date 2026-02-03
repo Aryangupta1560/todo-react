@@ -62,6 +62,7 @@
   };
 
   const updatedTasks = [newTask, ...tasks];
+  //aryan2
   setTasks(updatedTasks);
   setTask("");
 
